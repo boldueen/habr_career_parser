@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```bash
 touch .env
 ```
-then congigure it...
+then configure it...
 
 ## run the parser
 ```venv
