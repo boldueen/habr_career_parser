@@ -1,7 +1,9 @@
 # Installation
 
 ```bash
+cd your/code/folder
 git clone https://github.com/boldueen/medianation_habr_parser
+cd medianation_habr_parser
 python3.11 -m venv venv
 . venv/bin/activate
 ```
