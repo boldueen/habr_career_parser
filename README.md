@@ -11,6 +11,12 @@ python3.11 -m venv venv
 pip install -r requirements.txt
 ```
 
+## create .env file 
+```bash
+touch .env
+```
+then congigure it...
+
 ## run the parser
 ```venv
 python parser.py
