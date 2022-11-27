@@ -1,0 +1,7 @@
+*.env
+!.env.dist
+__pycache__
+*.csv
+/parse_data
+/errors_data
+/venv
